@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gourashyam Moirangthem</title>
+    <link>https://gsmoir.github.io/</link>
+    <description>Recent content on Gourashyam Moirangthem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gsmoir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>https://gsmoir.github.io/posts/coming-soon/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/posts/coming-soon/</guid>
+      <description>More blogs coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Main blog site</title>
+      <link>https://gsmoir.github.io/posts/main-blog-site/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/posts/main-blog-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABOUT ME</title>
+      <link>https://gsmoir.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/about/</guid>
+      <description>Hi, I am Gourashyam Moirangthem. I am a B.Tech with distinction in Computer Science &amp;amp; Engineering. I have around 6 years of experience in the field of Software Engineering.
+As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as enterprise platform engineer, specialized in Java. I was fortunate enough to be recognized as Best Campus Recruit in PES excellence Awards 2016-17, and rated Excellent continuously in all the performance ratings.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gsmoir.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/contact/</guid>
+      <description> Drop me a mail at mgourashyam@gmail.com Or shoot me a message at Linkedin  </description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://gsmoir.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>https://gsmoir.github.io/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://gsmoir.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/projects/</guid>
+      <description>HP Unity – Platform Management Layers  Tenure: WIPRO (March 2016 to August 2017) Client: HPE Team of 6 engineers. Handled plug-in based Manageability layer of HP Unity storage product Fixed several key bugs existing in the product Enhancement of the old architecture to HyperConverge Technology used includes Core Java, JaxRS, Git, UNIX, Python etc Awarded Prodigy by team with 1000 recognition points in winner’s circle    HP StoreAll – Fusion Manager  Tenure: WIPRO (March 2015 to Feb 2016) Client: HPE; Team of 3 engineers.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://gsmoir.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>https://gsmoir.github.io/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>https://gsmoir.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Gourashyam Moirangthem</title>
+    <link>https://gsmoir.github.io/tags/blog/</link>
+    <description>Recent content in blog on Gourashyam Moirangthem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gsmoir.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>https://gsmoir.github.io/posts/coming-soon/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/posts/coming-soon/</guid>
+      <description>More blogs coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Main blog site</title>
+      <link>https://gsmoir.github.io/posts/main-blog-site/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gsmoir.github.io/posts/main-blog-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
