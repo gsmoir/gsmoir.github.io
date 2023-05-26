@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Gourashyam Moirangthem</title>
-    <link>https://gsmoir.github.io/series/hugo/</link>
+    <link>/series/hugo/</link>
     <description>Recent content in Hugo on Gourashyam Moirangthem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gsmoir.github.io/series/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/series/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main blog site</title>
-      <link>https://gsmoir.github.io/posts/main-blog-site/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Mermaid JS support</title>
+      <link>/templates/mermaid-support/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gsmoir.github.io/posts/main-blog-site/</guid>
-      <description></description>
+      <guid>/templates/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
+flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Find more example on Mermaid-JS website.</description>
     </item>
     
   </channel>

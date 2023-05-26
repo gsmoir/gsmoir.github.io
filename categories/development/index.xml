@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Gourashyam Moirangthem</title>
-    <link>https://gsmoir.github.io/categories/development/</link>
+    <link>/categories/development/</link>
     <description>Recent content in Development on Gourashyam Moirangthem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gsmoir.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main blog site</title>
-      <link>https://gsmoir.github.io/posts/main-blog-site/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>/templates/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gsmoir.github.io/posts/main-blog-site/</guid>
+      <guid>/templates/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>/templates/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/templates/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     

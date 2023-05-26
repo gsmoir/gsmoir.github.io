@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Gourashyam Moirangthem</title>
-    <link>https://gsmoir.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Gourashyam Moirangthem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gsmoir.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>External link test</title>
-      <link>https://gsmoir.github.io/authors/external-link-test/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gsmoir.github.io/authors/external-link-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Translation test</title>
-      <link>https://gsmoir.github.io/authors/translation-test/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gsmoir.github.io/authors/translation-test/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
