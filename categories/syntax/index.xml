@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on gsmoir</title>
+    <title>syntax on GSMoir</title>
     <link>/categories/syntax/</link>
-    <description>Recent content in syntax on gsmoir</description>
+    <description>Recent content in syntax on GSMoir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/syntax/index.xml" rel="self" type="application/rss+xml" />

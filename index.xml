@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gsmoir</title>
+    <title>GSMoir</title>
     <link>/</link>
-    <description>Recent content on gsmoir</description>
+    <description>Recent content on GSMoir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -146,16 +146,6 @@ STATUS OF PRIMARY EDUCATION SYSTEMLink to headingFor almost a decade, India re
       
       <guid>/templates/hugo-coder-wiki/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ABOUT ME</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi, I am Gourashyam Moirangthem. I am currently a Project Manager at IIIT Manipur. I hold a B.Tech with Distinction in Computer Science &amp;amp; Engineering, and a PhD candidate. I have around 8 years of experience in the field of Computer Software Engineering and R&amp;amp;D.
-As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as enterprise platform engineer, specialized in Java. I was fortunate enough to be recognized as Best Campus Recruit in PES excellence Awards 2016-17, and rated Excellent continuously in all the performance ratings.</description>
     </item>
     
     <item>
