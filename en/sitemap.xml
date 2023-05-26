@@ -194,18 +194,6 @@
   </url><url>
     <loc>/about/</loc>
   </url><url>
-    <loc>/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-mni"
-                href="/pt-mni/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-  </url><url>
     <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -228,6 +216,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/contact/"
+                />
+  </url><url>
+    <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-mni"
+                href="/pt-mni/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
                 />
   </url><url>
     <loc>/templates/projects/</loc>

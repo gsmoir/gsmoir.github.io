@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gourashyam Moirangthem</title>
+    <title>gsmoir</title>
     <link>/</link>
-    <description>Recent content on Gourashyam Moirangthem</description>
+    <description>Recent content on gsmoir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -23,9 +23,9 @@ flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram partici
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/templates/html-and-css-only-tabs/</guid>
-      <description>Basic shortcodes Link to heading The following content:
+      <description>Basic shortcodesLink to headingThe following content:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
-Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:
+HelloHello World!GoodbyeGoodbye Everybody!Right alighmentLink to headingYou can also align the tabs to the right:
 {{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
     </item>
     
@@ -37,7 +37,7 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
       <guid>/posts/a_roadblock_to_nep/</guid>
       <description>(First published in the Sangai Express, 31st July 2020)
 The International Standard Classification of Education considers primary education as &amp;ldquo;a single-phase where programmes are typically designed to&amp;hellip;establish a solid foundation for learning.&amp;rdquo; Only after having this foundation, a person can become an efficient, effective and independent learner in whatever trade he/she may chose. Only then the dream of a developed and a self reliant nation can be realized.
-STATUS OF PRIMARY EDUCATION SYSTEM Link to heading For almost a decade, India refused to participate in Global Education Ranking - PISA (Program for International Student Assessment).</description>
+STATUS OF PRIMARY EDUCATION SYSTEMLink to headingFor almost a decade, India refused to participate in Global Education Ranking - PISA (Program for International Student Assessment).</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ STATUS OF PRIMARY EDUCATION SYSTEM Link to heading For almost a decade, India re
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/templates/rich-content.pt-br/</guid>
-      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ STATUS OF PRIMARY EDUCATION SYSTEM Link to heading For almost a decade, India re
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/templates/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -159,16 +159,6 @@ As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as enter
     </item>
     
     <item>
-      <title>ABOUT ME</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi, I am Gourashyam Moirangthem. I am currently a Project Manager at IIIT Manipur. I hold a B.Tech with Distinction in Computer Science &amp;amp; Engineering, and a PhD candidate. I have around 8 years of experience with proven excellence in the field of Information Technology (IT)/Computer Software Engineering.
-As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as &amp;ldquo;Project Engineer/Enterprise Platform Engineer&amp;rdquo;, specialized in Java. I was fortunate enough to be recognized as Best Campus Recruit in PES excellence Awards 2016-17, and rated Excellent continuously in all the performance ratings.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,12 +168,22 @@ As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as &amp;
     </item>
     
     <item>
+      <title>Hi, I am Gourashyam Moirangthem</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My friends also call me Sam. I am currently a Project Manager at IIIT Manipur. I hold a B.Tech with Distinction in Computer Science &amp;amp; Engineering, and a PhD candidate. I have around 8 years of experience with proven excellence in the field of Information Technology (IT)/Computer Software Engineering.
+As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as &amp;ldquo;Project Engineer/Enterprise Platform Engineer&amp;rdquo;, specialized in Java.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/templates/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/templates/projects/</guid>
-      <description>ISHAAN: A System for Bidirectional Machine Translation between 1) English and Assamese, Bodo, Manipuri, Nepali 2) Manipuri and Hindi 3) Assamese and Bodo (A consortium project involving IIT Bombay, IIIT Manipur, IIIT Hyderabad, NIT Silchar, Guwahati University and North Bengal University.) Link to heading Funded by: MeitY, Govt. of India, under National Language Translation Mission (NLTM) Organization: IIIT Manipur, July 2022 to present Working as Project Manager for the IIIT Manipur team.</description>
+      <description>ISHAAN: A System for Bidirectional Machine Translation between 1) English and Assamese, Bodo, Manipuri, Nepali 2) Manipuri and Hindi 3) Assamese and Bodo (A consortium project involving IIT Bombay, IIIT Manipur, IIIT Hyderabad, NIT Silchar, Guwahati University and North Bengal University.)Link to headingFunded by: MeitY, Govt. of India, under National Language Translation Mission (NLTM) Organization: IIIT Manipur, July 2022 to present Working as Project Manager for the IIIT Manipur team.</description>
     </item>
     
   </channel>

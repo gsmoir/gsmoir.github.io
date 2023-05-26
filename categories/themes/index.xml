@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>themes on Gourashyam Moirangthem</title>
+    <title>themes on gsmoir</title>
     <link>/categories/themes/</link>
-    <description>Recent content in themes on Gourashyam Moirangthem</description>
+    <description>Recent content in themes on gsmoir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/themes/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,9 @@
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/templates/html-and-css-only-tabs/</guid>
-      <description>Basic shortcodes Link to heading The following content:
+      <description>Basic shortcodesLink to headingThe following content:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
-Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:
+HelloHello World!GoodbyeGoodbye Everybody!Right alighmentLink to headingYou can also align the tabs to the right:
 {{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
     </item>
     
